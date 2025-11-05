@@ -2,7 +2,7 @@
 (Microservice)
 A simple, elegant real-time chat application built with Spring Boot and WebSocket.
 
-![Chat Application Screenshot](docs/screenshots/chat-interface.png)
+<img width="1450" height="967" alt="image" src="https://github.com/user-attachments/assets/de5bd379-001a-4c77-ac7b-7d64d04f32ed" />
 
 ## Features
 
@@ -39,7 +39,7 @@ A simple, elegant real-time chat application built with Spring Boot and WebSocke
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Monudhakad1/RealTimeChatApplication/
 ```
 
 2. Navigate to the project directory:
